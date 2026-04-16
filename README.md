@@ -153,3 +153,12 @@ http://localhost:5173
 7. 進入 `frontend` 執行 `npm install`
 8. 執行 `npm run dev`
 9. 開啟 `http://localhost:5173`
+
+---
+
+## 安全性處理說明
+
+- 後端透過 JdbcTemplate 參數化呼叫 Stored Procedure，避免 SQL Injection
+- 使用 Validation 驗證輸入格式，例如員工編號固定 5 碼
+- 使用 HtmlSanitizer 對輸入資料做基本清洗，降低 XSS 風險
+- 前端使用 Vue 模板插值顯示資料，未使用 v-html 直接渲染 HTML
