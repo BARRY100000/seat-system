@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/6427a12c-2200-4a2a-a498-6e90c016c6c4
 # 員工座位安排系統（Seat System）
 
 ## 執行環境與版本需求
@@ -167,10 +169,4 @@ http://localhost:5173
 
 ## 功能展示
 
-https://github.com/user-attachments/assets/f50dcb4b-f7d8-4733-9c10-95b775aa52c2
-
-
-
-
-
-
+Uploading 2026-04-16 23-32-14.mp
