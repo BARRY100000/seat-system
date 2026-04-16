@@ -162,3 +162,15 @@ http://localhost:5173
 - 使用 Validation 驗證輸入格式，例如員工編號固定 5 碼
 - 使用 HtmlSanitizer 對輸入資料做基本清洗，降低 XSS 風險
 - 前端使用 Vue 模板插值顯示資料，未使用 v-html 直接渲染 HTML
+
+---
+
+## 功能展示
+
+https://github.com/user-attachments/assets/f50dcb4b-f7d8-4733-9c10-95b775aa52c2
+
+
+
+
+
+
